@@ -13,6 +13,6 @@ bgdgdgdbgdbbdds
 
 # ls o dir (para ver los documentos existentes)
 # cd nombre_de_archivo  (para entrar en el archivo)
-# cd .. (para retroceder de/la carpeta/archivo) 
+# cd .. (para retroceder de/la carpeta/archivo)
 
 
